@@ -54,13 +54,13 @@ This remained unchanged after 9th grade data exclusion.
 - Math and reading scores by grade.
 The math and reading scores by grade are unaffected.
 
--Scores by school spending.
+- Scores by school spending.
 The scores by school spending are unaffected.
 
--Scores by school size.
+- Scores by school size.
 The scores by school size are unaffected.
 
--Scores by school type.
+- Scores by school type.
 The scores by school type are unaffected.
 
 
