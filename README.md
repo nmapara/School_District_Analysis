@@ -65,4 +65,5 @@ The scores by school type are unaffected.
 
 
 ### Summary
+We assume that any changes under 0.5% are negligible.
 There were no major changes observed by the exclusion of the 9th grade data from Thomas High School.
